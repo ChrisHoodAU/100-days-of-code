@@ -26,5 +26,5 @@
 **Thoughts** A refresher on the fundamentals of strings, input/output and variables. Takes me back to Uni days.
 
 **Link(s) to work**
-1. [Notes](notes\day1.md)
-2. [Project](code\day001\day1project.py)
+1. [Notes](notes\day001.md)
+2. [Project](code\day001\day001project.py)
