@@ -21,10 +21,10 @@
 
 ### Day 1: April 27, Tuesday
 
-**Today's Progress**: Working with variables in Python
+**Today's Progress**: Working with strings and variables in Python
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** A refresher on the fundamentals of strings, input/output and variables. Takes me back to Uni days.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Notes](notes\day1.md)
+2. [Project](code\day001\day1project.py)
