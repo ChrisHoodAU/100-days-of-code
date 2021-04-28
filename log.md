@@ -28,3 +28,14 @@
 **Link(s) to work**
 1. [Notes](notes\day001.md)
 2. [Project](code\day001\day001project.py)
+
+
+### Day 2: April 28, Wednesday
+
+**Today's Progress**: Data types, mathematical operators & string manipulation
+
+**Thoughts** Picked up a couple of useful operators (+= etc) that I wasn't aware of, also casting variables.
+
+**Link(s) to work**
+1. [Notes](notes\day002.md)
+2. [Project](code\day002\day002project.py)
