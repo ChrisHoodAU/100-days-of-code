@@ -39,3 +39,13 @@
 **Link(s) to work**
 1. [Notes](notes\day002.md)
 2. [Project](code\day002\day002project.py)
+
+### Day 3: April 29, Thursday
+
+**Today's Progress**: Conditionals
+
+**Thoughts** Very much rehashing things I already know, but getting the syntax muscle memory is important.
+
+**Link(s) to work**
+1. [Notes](notes\day003.md)
+2. [Project](code\day003\day003project.py)
