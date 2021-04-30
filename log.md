@@ -40,6 +40,7 @@
 1. [Notes](notes\day002.md)
 2. [Project](code\day002\day002project.py)
 
+
 ### Day 3: April 29, Thursday
 
 **Today's Progress**: Conditionals
@@ -49,3 +50,14 @@
 **Link(s) to work**
 1. [Notes](notes\day003.md)
 2. [Project](code\day003\day003project.py)
+
+
+### Day 4: April 30, Friday
+
+**Today's Progress**: Randomisation and Nested Lists
+
+**Thoughts** Remember - lists are indexed at 0 in python!
+
+**Link(s) to work**
+1. [Notes](notes\day004.md)
+2. [Project](code\day004\day004project.py)
