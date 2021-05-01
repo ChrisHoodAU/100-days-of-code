@@ -61,3 +61,14 @@
 **Link(s) to work**
 1. [Notes](notes\day004.md)
 2. [Project](code\day004\day004project.py)
+
+
+### Day 5: May 01, Friday
+
+**Today's Progress**: Loops
+
+**Thoughts** Ranges, Loops. Remember to be mindful of where they start and what they include. It's also not as complex sometimes. Think: lists instead of strings for random
+
+**Link(s) to work**
+1. [Notes](notes\day005.md)
+2. [Project](code\day005\day005project.py)
