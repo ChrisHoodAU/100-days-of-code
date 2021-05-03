@@ -63,7 +63,7 @@
 2. [Project](code\day004\day004project.py)
 
 
-### Day 5: May 01, Friday
+### Day 5: May 01, Saturday
 
 **Today's Progress**: Loops
 
@@ -72,3 +72,25 @@
 **Link(s) to work**
 1. [Notes](notes\day005.md)
 2. [Project](code\day005\day005project.py)
+
+
+### Day 6: May 02, Sunday
+
+**Today's Progress**: Functions
+
+**Thoughts** Differences between for and while loops, defining functions and invoking them - for the moment without input or outputs.
+
+**Link(s) to work**
+1. [Notes](notes\day006.md)
+2. [Project](code\day006\day006project.py)
+
+
+### Day 7: May 03, Monday
+
+**Today's Progress**: Hangman project
+
+**Thoughts** Breaking the project down into small components really helped in completing the whole thing. Use flow charts to describe the program before starting.
+
+**Link(s) to work**
+1. [Notes](notes\day007.md)
+2. [Project](code\day007\day007project.py)
