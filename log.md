@@ -94,3 +94,14 @@
 **Link(s) to work**
 1. [Notes](notes\day007.md)
 2. [Project](code\day007\day007project.py)
+
+
+### Day 8: May 04, Tuesday
+
+**Today's Progress**: Function Parameters & Caesar cipher
+
+**Thoughts** Neat tricks to condense similar functions down. Also remember tools like modulo in the kitbag. Positional vs Keyword arguments.
+
+**Link(s) to work**
+1. [Notes](notes\day008.md)
+2. [Project](code\day008\day008project.py)
