@@ -105,3 +105,14 @@
 **Link(s) to work**
 1. [Notes](notes\day008.md)
 2. [Project](code\day008\day008project.py)
+
+
+### Day 9: May 05, Wednesday
+
+**Today's Progress**: Dictionaries and Nested Lists
+
+**Thoughts** Interval comparison x >= number >= y. Dictionaries, nice to properly learn things I have already come across. Will have to play around with dicts a bit more to get them 100% in the mind
+
+**Link(s) to work**
+1. [Notes](notes\day009.md)
+2. [Project](code\day009\day009project.py)
