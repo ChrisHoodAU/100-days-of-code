@@ -116,3 +116,13 @@
 **Link(s) to work**
 1. [Notes](notes\day009.md)
 2. [Project](code\day009\day009project.py)
+
+### Day 10: May 06, Thursday
+
+**Today's Progress**: Functions with Outputs
+
+**Thoughts** Functions with returns and recursion. Again, not covering anything I haven't already seen but a good review.
+
+**Link(s) to work**
+1. [Notes](notes\day010.md)
+2. [Project](code\day010\day010project.py)
