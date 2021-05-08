@@ -126,3 +126,25 @@
 **Link(s) to work**
 1. [Notes](notes\day010.md)
 2. [Project](code\day010\day010project.py)
+
+
+### Day 11: May 07, Friday
+
+**Today's Progress**: Blackjack Capstone Project
+
+**Thoughts** Putting everything together in a project. Didn't write the most efficient code, could have collapsed some repeated actions into functions but it did work.
+
+**Link(s) to work**
+1. [Notes](notes\day011.md)
+2. [Project](code\day011\day011project.py)
+
+
+### Day 12: May 08, Saturday
+
+**Today's Progress**: Variable Scope
+
+**Thoughts** Where variables are included in the scope and where they are not. Got the project done in a fairly clean manner, leveraging recursion, functions, variables etc.
+
+**Link(s) to work**
+1. [Notes](notes\day012.md)
+2. [Project](code\day012\day012project.py)
