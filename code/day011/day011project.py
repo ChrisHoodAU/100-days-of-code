@@ -27,34 +27,73 @@ def deal():
     card_choice = random.randint(0,12)
     return cards[card_choice]
 
-def play():
-    player_hand = []
-    computer_hand = []
-    print(logo)
-    play_blackjack = True
-    while play_blackjack:
-        #Start of the game - deal 2 cards to player, 1 to computer
-        player_hand.append(deal())
-        player_hand.append(deal())
-        computer_hand.append(deal())
-        player_sum = sum(player_hand)
-        print(f"Your cards: {player_hand}, current score: {player_sum}")
-        print(f"Computer's first card: {computer_hand}")
+def check_result(player_hand, computer_hand):
+    player_sum = sum(player_hand)
+    computer_sum = sum(computer_hand)
+    print(f"    Your final hand: {player_hand}, final score: {player_sum}")
+    print(f"    Computer's final hand: {computer_hand}, final score: {computer_sum}")
+    if player_sum == 21 and len(player_hand) == 2:
+        print("Blackjack! You Win!")
+        return
+    elif player_sum > 21:
+        print("You went over. Computer wins.")
+        return
+    elif computer_sum > 21:
+        print("Computer went over. You win.")
+        return
+    elif player_sum > computer_sum:
+        print("You Win")
+        return
+    elif player_sum == computer_sum:
+        print("Tie")
+        return
+    else:
+        print("Computer wins.")
+        return
 
-        if input("Type 'y' to get another card, type 'n' to pass: ") == 'y':
+def play():
+    if input("Do you want to play a game of Blackjack? Type 'y' or 'n': ") == 'y':
+        player_hand = []
+        computer_hand = []
+        print(logo)
+        another_card = True
+        play_blackjack = True
+        while play_blackjack:
+            #Start of the game - deal 2 cards to player, 1 to computer
             player_hand.append(deal())
+            player_hand.append(deal())
+            computer_hand.append(deal())
             player_sum = sum(player_hand)
+            computer_sum = sum(computer_hand)
             print(f"Your cards: {player_hand}, current score: {player_sum}")
             print(f"Computer's first card: {computer_hand}")
-        else:
-            print("Done")
 
-        if input("Do you want to play a game of Blackjack? Type 'y' or 'n': ") == 'y':
-            play()
-        else:
-            quit()
+            while another_card == True:
+                if input("Type 'y' to get another card, type 'n' to pass: ") == 'y':
+                    player_hand.append(deal())
+                    player_sum = sum(player_hand)
+                    print(f"    Your cards: {player_hand}, current score: {player_sum}")
+                    print(f"    Computer's first card: {computer_hand}")
+                    computer_sum = sum(computer_hand)
+                    if player_sum == 21 and len(player_hand) == 2:
+                        check_result(player_hand, computer_hand)
+                        play()
+                    elif player_sum > 21:
+                        while computer_sum <=16:
+                            computer_hand.append(deal())
+                            computer_sum = sum(computer_hand)
+                        check_result(player_hand, computer_hand)
+                        play()
+                else:
+                    while computer_sum <=16:
+                        computer_hand.append(deal())
+                        computer_sum = sum(computer_hand)
+                    check_result(player_hand, computer_hand)
+                    another_card = False
+                    play()
+    else:
+        play_blackjack = False
+        quit()
 
-if input("Do you want to play a game of Blackjack? Type 'y' or 'n': ") == 'y':
-    play()
-else:
-    quit()
+# Main Body
+play()
