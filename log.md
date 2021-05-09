@@ -148,3 +148,14 @@
 **Link(s) to work**
 1. [Notes](notes\day012.md)
 2. [Project](code\day012\day012project.py)
+
+
+### Day 13: May 09, Sunday
+
+**Today's Progress**: Debugging
+
+**Thoughts** Ah, so familiar with debugging!
+
+**Link(s) to work**
+1. [Notes](notes\day013.md)
+2. No Project Today
