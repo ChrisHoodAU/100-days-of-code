@@ -159,3 +159,14 @@
 **Link(s) to work**
 1. [Notes](notes\day013.md)
 2. No Project Today
+
+
+### Day 14: May 10, Monday
+
+**Today's Progress**: Higher / Lower project
+
+**Thoughts** Putting all the previous lessions into action. Still feeling like I'm not quite getting things as clean as I could, but the code works.
+
+**Link(s) to work**
+1. [Notes](notes\day014.md)
+2. [Project](code\day014\day014project.py)
