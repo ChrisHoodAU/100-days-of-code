@@ -170,3 +170,14 @@
 **Link(s) to work**
 1. [Notes](notes\day014.md)
 2. [Project](code\day014\day014project.py)
+
+
+### Day 14: May 11, Tuesday
+
+**Today's Progress**: Coffee Machine project
+
+**Thoughts** Starting to get a bit smarter about iterating over dicts rather than doing big branches.
+
+**Link(s) to work**
+1. [Notes](notes\day015.md)
+2. [Project](code\day015\day015project.py)
