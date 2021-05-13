@@ -172,7 +172,7 @@
 2. [Project](code\day014\day014project.py)
 
 
-### Day 14: May 11, Tuesday
+### Day 15: May 11, Tuesday
 
 **Today's Progress**: Coffee Machine project
 
@@ -181,3 +181,25 @@
 **Link(s) to work**
 1. [Notes](notes\day015.md)
 2. [Project](code\day015\day015project.py)
+
+
+### Day 16: May 12, Wednesday
+
+**Today's Progress**: Object Oriented Programming
+
+**Thoughts** A blast from the past - OOP coming screaming back from Uni days. Read the doco and understand what methods the class brings!
+
+**Link(s) to work**
+1. [Notes](notes\day016.md)
+2. [Project](code\day016\day016project.py)
+
+
+### Day 17: May 13, Thursday
+
+**Today's Progress**: Creating Classes
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Notes](notes\day017.md)
+2. [Project](code\day017\day017project.py)
