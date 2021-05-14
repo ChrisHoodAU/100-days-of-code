@@ -203,3 +203,14 @@
 **Link(s) to work**
 1. [Notes](notes\day017.md)
 2. [Project](code\day017\day017project.py)
+
+
+### Day 18: May 14, Friday
+
+**Today's Progress**: Turtles, Tuples and GUIs
+
+**Thoughts** So that's what a tuple is! Many ways to skin a cat, read the methods.
+
+**Link(s) to work**
+1. [Notes](notes\day018.md)
+2. [Project](code\day018\day018project.py)
