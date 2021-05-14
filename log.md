@@ -198,7 +198,7 @@
 
 **Today's Progress**: Creating Classes
 
-**Thoughts** 
+**Thoughts** Get a grasp on what attributes the object has and you can rule the world!
 
 **Link(s) to work**
 1. [Notes](notes\day017.md)
