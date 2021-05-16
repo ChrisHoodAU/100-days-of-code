@@ -214,3 +214,25 @@
 **Link(s) to work**
 1. [Notes](notes\day018.md)
 2. [Project](code\day018\day018project.py)
+
+
+### Day 19: May 15, Saturday
+
+**Today's Progress**: Instances, State and Higher Order Functions
+
+**Thoughts** Functions being used by functions, and multiple instanciations of Classes. Neat using a list to contain the instances, rather than individually named ones.
+
+**Link(s) to work**
+1. [Notes](notes\day019.md)
+2. [Project](code\day019\day019project.py)
+
+
+### Day 20: May 16, Sunday
+
+**Today's Progress**: The Snake game
+
+**Thoughts** Got to a point where the snake responds to input. Need to review the part where the snake is bound together. Move the non-head segments to their neighbour, move the snake.
+
+**Link(s) to work**
+1. [Notes](notes\day020.md)
+2. [Project](code\day020\day020project.py)
