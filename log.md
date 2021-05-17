@@ -236,3 +236,14 @@
 **Link(s) to work**
 1. [Notes](notes\day020.md)
 2. [Project](code\day020\day020project.py)
+
+
+### Day 21: May 17, Monda
+
+**Today's Progress**: The Snake game part 2
+
+**Thoughts** Class inheritance - defining classes from classes, then slicing. Funny how inheritance seems to be making more sense this time around.
+
+**Link(s) to work**
+1. [Notes](notes\day021.md)
+2. [Project](code\day021\day021project.py)
