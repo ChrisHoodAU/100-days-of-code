@@ -238,7 +238,7 @@
 2. [Project](code\day020\day020project.py)
 
 
-### Day 21: May 17, Monda
+### Day 21: May 17, Monday
 
 **Today's Progress**: The Snake game part 2
 
@@ -247,3 +247,14 @@
 **Link(s) to work**
 1. [Notes](notes\day021.md)
 2. [Project](code\day021\day021project.py)
+
+
+### Day 22: May 18, Tuesday
+
+**Today's Progress**: Pong
+
+**Thoughts** Remember Class inheritance! Had fun thinking through how to build the classes and seeing how the example code was done. Was overthinking!
+
+**Link(s) to work**
+1. [Notes](notes\day022.md)
+2. [Project](code\day022\day022project.py)
